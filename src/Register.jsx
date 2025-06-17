@@ -8,11 +8,11 @@ import React from 'react'
         <form className="space-y-4">
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">
-              UserName
+              Username
             </label>
             <input
-              type="UserName"
-              placeholder="e.g.Rahul"
+              type="Username"
+              placeholder="e.g.Rahul12"
               className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-indigo-400 focus:outline-none"
               required
             />
@@ -22,8 +22,8 @@ import React from 'react'
               Password
             </label>
             <input
-              type="email"
-              placeholder="seller@email.com"
+              type="password"
+              placeholder="........."
               className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-indigo-400 focus:outline-none"
               required
             />
@@ -52,11 +52,11 @@ import React from 'react'
           </div>
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">
-              Shop Address
+              Email
             </label>
             <input
-              type="text"
-              placeholder="City,Street,Pincode"
+              type="email"
+              placeholder="abc@email.com"
               className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-indigo-400 focus:outline-none"
               required
             />
@@ -65,7 +65,7 @@ import React from 'react'
             type="submit"
             className="w-full bg-indigo-600 text-white py-3 rounded-md font-semibold hover:bg-indigo-700 transition"
           >
-            Add Seller
+            Submit
           </button>
           </form>
       </div>

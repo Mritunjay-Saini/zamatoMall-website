@@ -12,7 +12,7 @@ export const AddSeller = () => {
             </label>
             <input
               type="text"
-              placeholder="e.g.Rahul Traders"
+              placeholder="e.g.ram Traders"
               className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-indigo-400 focus:outline-none"
               required
             />
@@ -23,7 +23,7 @@ export const AddSeller = () => {
             </label>
             <input
               type="email"
-              placeholder="seller@email.com"
+              placeholder="abc@email.com"
               className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-indigo-400 focus:outline-none"
               required
             />
@@ -34,7 +34,7 @@ export const AddSeller = () => {
             </label>
             <input
               type="text"
-              placeholder="e.g.Rahul kirana store"
+              placeholder="e.g.kirana store"
               className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-indigo-400 focus:outline-none"
               required
             />
@@ -56,7 +56,7 @@ export const AddSeller = () => {
             </label>
             <input
               type="text"
-              placeholder="City,Street,Pincode"
+              placeholder="Enter address"
               className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-indigo-400 focus:outline-none"
               required
             />

@@ -11,7 +11,7 @@ function App() {
     <div style={styles.appContainer}>
       {/* Navbar */}
       <nav style={styles.navbar}>
-        <Link to="/" style={styles.logo}>ZomatoMall</Link>
+        <Link to="/" style={styles.logo}>Food Shop</Link>
         <div style={styles.navLinks}>
           <Link to="/" style={styles.link}>Home</Link>
           <Link to="/product" style={styles.link}>Product</Link>
